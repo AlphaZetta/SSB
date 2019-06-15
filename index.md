@@ -11,7 +11,7 @@ Governor - @jbrow78 - He was the first ever Governor of ShopBux
 
 ### About
 
-Welcome to Scratch ShopBux! We are a currency and benefits program available for YOUR shop in a few simple clicks. This is the official website of this organization and we will get you started in becoming a real shop.
+Welcome to Scratch ShopBux! We are a currency and benefits program available for YOUR shop in a few simple clicks. This is the official website of this organization and we will get you started in becoming a _**real**_ shop.
 
 ```markdown
 Syntax highlighted code block
