@@ -1,12 +1,17 @@
-## Professional Websites
+## ShopBux
 
-How do you make a professional website, you may ask. Well, I know and I will teach you.
+### Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### This is the virtual currency Scratch ShopBux and the highest ranks consists of 2 Founders, 1 Vice Founder and a Governor
 
-### Markdown
+Founder - @MClovers - He first founded ShopBux and brought this community to life
+Founder - @CaptainRatlex - He helped ShopBux come to where it is today
+Vice Founder - @Riddle_Man - She would've helped @MClovers when @CaptainRatlex left, but thankfully he came back
+Governor - @jbrow78 - He was the first ever Governor of ShopBux
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About
+
+Welcome to Scratch ShopBux! We are a currency and benefits program available for YOUR shop in a few simple clicks. This is the official website of this organization and we will get you started in becoming a real shop.
 
 ```markdown
 Syntax highlighted code block
