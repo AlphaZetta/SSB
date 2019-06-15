@@ -1,3 +1,4 @@
+![Image](http://u.cubeupload.com/CaptainRatlex/4953B5A4807B49BF82BB.png)
 ## ShopBux
 
 ### Introduction
@@ -73,3 +74,12 @@ By @MClovers
 If ShopBux had a Flag
 
 By @OwenRich
+
+### Credits
+
+- @MClovers for programming the website
+- @AFNNetworkK12 for the idea for the website
+- @Epic_TV for the idea for the Shop Directory
+
+### Visit Us!
+Thank you for visiting this website and make sure to come on down to [Scratch ShopBux](https://scratch.mit.edu/discuss/topic/347154/)!
