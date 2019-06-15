@@ -37,6 +37,7 @@ The prices and orders are yours to set!
 - 15/16th of June 2019: New website
 
 ### Staff
+
 - Founders: @MClovers, @CaptainRatlex
 - Vice Founder: @Riddle_Man
 - Governor: @jbrow78
@@ -54,12 +55,21 @@ The prices and orders are yours to set!
 - Editors: @MClovers, @CaptainRatlex, @Dragonlord767, @FrenchBread49, @berryjam3506, @Partial2Partials, @AFNNetworkK12
 
 ### Fanart
+
 ![Image](http://u.cubeupload.com/MCloverz/shopbuxfanart.png)
+
 If ShopBux was a Person
+
 By @MClovers
+
 ![Image](http://u.cubeupload.com/MCloverz/shopbuxfanart2.png)
+
 How much ShopBux can fit in the egg?
+
 By @MClovers
+
 ![Image](https://imagizer.imageshack.com/img924/7984/Uqenfu.png)
+
 If ShopBux had a Flag
+
 By @OwenRich
