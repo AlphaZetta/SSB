@@ -33,10 +33,40 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Why ShopBux?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MCloverz/sandbox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The overwhelming majority of shops are free, simple, fill out an order form shops. That’s great! We support simple shops. But now you can offer more things give your customers cool benefits for a simple price. For example,
 
-### Support or Contact
+```ShopBux Benefits!
+Selling For: 20 ShopBux - You’ll get - 5 Loves, 3 Favourites, 1 Follow
+Selling For: 10 ShopBux - You’ll get - 3 Loves, 1 Favourites
+etc…```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The prices and orders are yours to set!
+
+### Our History
+
+- 15/16th of February 2019: ShopBux set up by MClovers, then discovered by CaptainRatlex, becomes a founder, becomes SRP because of the concern of the effect of https://scratch.mit.edu/discuss/topic/340012/, becomes a part of SSSF
+- 12/13th of March 2019: Becomes ShopBux once again, moves thread
+- 13/14th of March 2019: New staff spots open
+- 4/5th of April 2019: A plan set to reduce inflation
+- 10/11th of April 2019: New format by CR, new thread by MClovers
+- 20th/21st of April 2019: Website set up
+- 15/16th of June 2019: New website
+
+### Staff
+- Founders: @MClovers, @CaptainRatlex
+- Vice Founder: @Riddle_Man
+- Governor: @jbrow78
+- President: @Dragonlord767
+- Vice President: @openPoll
+- Assistant President: @AFNNetworkK12
+- Chairman: @ZPgaming
+- Vice Chairman: @berryjam3506
+- Assistant Chairman: @ajsya
+- Secretary: @FrenchBread49
+- Vice Secretary: @Alex11345
+- Assistant Secretary: @Hellounicorns2
+- Trusted Helpers (NONE):
+- Helpers (NONE):
+- Editors: @MClovers, @CaptainRatlex, @Dragonlord767, @FrenchBread49, @berryjam3506, @Partial2Partials, @AFNNetworkK12
