@@ -79,7 +79,7 @@ By @OwenRich
 
 - @MClovers for programming the website
 - @AFNNetworkK12 for the idea for the website
-- @Epic_TV for the idea for the Shop Directory
+- @smileycreations15 for help with the favicon
 
 ### Visit Us!
 Thank you for visiting this website and make sure to come on down to [Scratch ShopBux](https://scratch.mit.edu/discuss/topic/347154/)!
