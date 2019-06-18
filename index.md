@@ -8,7 +8,7 @@
 - Founder - @MClovers - He first founded ShopBux and brought this community to life
 - Founder - @CaptainRatlex - He helped ShopBux come to where it is today
 - Vice Founder - @Riddle_Man - She would've helped @MClovers when @CaptainRatlex left, but thankfully he came back
-- Governor - @jbrow78 - He was the first ever Governor of ShopBux
+- Governor - @NYCDOT - They were the second Governor of ShopBux brought in after the ban of @jbrow78
 
 ### About
 
