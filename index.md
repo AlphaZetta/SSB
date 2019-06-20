@@ -36,6 +36,7 @@ The prices and orders are yours to set!
 - 10/11th of April 2019: New format by CR, new thread by MClovers
 - 20th/21st of April 2019: Website set up
 - 15/16th of June 2019: New website
+- 19/20th of June 2019: Officially leaves the SSSF
 
 ### Staff
 
