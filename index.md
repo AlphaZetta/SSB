@@ -3,11 +3,11 @@
 
 ### Introduction
 
-#### This is the virtual currency Scratch ShopBux and the highest ranks consists of 2 Founders, 1 Vice Founder and a Governor
+#### This is the virtual currency Scratch ShopBux and the highest ranks consists of 3 Founders and a Governor
 
 - Founder - @MClovers - He first founded ShopBux and brought this community to life
 - Founder - @CaptainRatlex - He helped ShopBux come to where it is today
-- Vice Founder - @Riddle_Man - She would've helped @MClovers when @CaptainRatlex left, but thankfully he came back
+- Founder - @Riddle_Man - She would've helped @MClovers when @CaptainRatlex left, but thankfully he came back
 - Governor - @NYCDOT - They were the second Governor of ShopBux brought in after the ban of @jbrow78
 
 ### About
