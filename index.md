@@ -40,21 +40,19 @@ The prices and orders are yours to set!
 
 ### Staff
 
-- Founders: @MClovers, @CaptainRatlex
-- Vice Founder: @Riddle_Man
-- Governor: @jbrow78
+- Founders: @MClovers, @CaptainRatlex, @Riddle_Man
+- Governor: @NYCDOT
 - President: @Dragonlord767
-- Vice President: @openPoll
-- Assistant President: @AFNNetworkK12
+- Vice President: @ajsya
+- Assistant President: @berryjam3506
 - Chairman: @ZPgaming
-- Vice Chairman: @berryjam3506
-- Assistant Chairman: @ajsya
-- Secretary: @FrenchBread49
-- Vice Secretary: @Alex11345
-- Assistant Secretary: @Hellounicorns2
-- Trusted Helpers (NONE):
-- Helpers (NONE):
-- Editors: @MClovers, @CaptainRatlex, @Dragonlord767, @FrenchBread49, @berryjam3506, @Partial2Partials, @AFNNetworkK12
+- Vice Chairman: @FrenchBread49
+- Assistant Chairman: @hellounicorns2
+- Secretary: @Alex11345
+- Vice Secretary: @Partial2Partials
+- Assistant Secretary: @openPoll
+- Trusted Helpers: @Scratch-Coding, @jbrow78, @AFNNetworkK12
+- Helpers: @Virus000
 
 ### Fanart
 
