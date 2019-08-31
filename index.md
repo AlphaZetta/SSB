@@ -14,7 +14,7 @@
 
 Welcome to Scratch ShopBux! We are a currency and benefits program available for YOUR shop in a few simple clicks. This is the official website of this organization and we will get you started in becoming a _**real**_ shop.
 
-<video autoplay src="https://smileycreations15.com/videos/vid1.mp4"tabindex="-1"height="100%"width="100%"></video>
+<video autoplay title="Made by @smileycreations15 (https://github.com/smileycreations15)" src="https://smileycreations15.com/videos/vid1.mp4" tabindex="-1" height="100%" width="100%"></video>
 
 ### Why ShopBux?
 
