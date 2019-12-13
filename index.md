@@ -7,14 +7,14 @@
 
 - Founder - @MClovers - He first founded ShopBux and brought this community to life
 - Founder - @CaptainRatlex - He helped ShopBux come to where it is today
-- Governor - @jbrow78 - He is the first/third ShopBux Governor
+- Governor - @ajsya - He is the fifth ShopBux Governor
 - President - @Dragonlord767 - He is the longest ShopBux member other than the 2 Founders
 
 ### About
 
 Welcome to Scratch ShopBux! We are a currency and benefits program available for YOUR shop in a few simple clicks. This is the official website of this organization and we will get you started in becoming a _**real**_ shop.
 
-<video autoplay title="Made by @smileycreations15 (https://github.com/smileycreations15)" src="https://smileycreations15.com/videos/vid1.mp4" tabindex="-1" height="100%" width="100%"></video>
+<video autoplay src="https://smileycreations15.com/videos/vid1.mp4" tabindex="-1" height="100%" width="100%"></video>
 
 ### Why ShopBux?
 
@@ -43,7 +43,7 @@ The prices and orders are yours to set!
 ### Staff
 
 - Founders: @MClovers, @CaptainRatlex, @Riddle_Man
-- Governor: @NYCDOT
+- Governor: @ajsya
 - President: @Dragonlord767
 - Vice President: @ajsya
 - Assistant President: @berryjam3506
